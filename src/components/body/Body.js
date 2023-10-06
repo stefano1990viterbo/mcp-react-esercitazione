@@ -8,5 +8,5 @@ function Body({ children, claim }) {
     </div>
   )
 }
-// Test commit vscode
+
 export default Body
