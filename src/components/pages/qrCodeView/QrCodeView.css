@@ -1,0 +1,13 @@
+.claim {
+    color: white;
+    font-size: 24pt;
+    padding-bottom: 18pt;
+}
+
+.qrcode {
+    height: 12em;
+    width: 12em;
+    align-self: center;
+    border-radius: 8%;
+    margin: 10px;
+}

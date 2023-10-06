@@ -1,0 +1,22 @@
+.titolo {
+    color: white;
+    /* font-size: xxx-large; */
+    font-size: 5em;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header--size-small {
+    font-size: x-small;
+    margin-left: 2em;
+    margin-right: auto;
+}
+
+.logo {
+    height: 3.4em;
+    margin-right: 6pt;
+}
